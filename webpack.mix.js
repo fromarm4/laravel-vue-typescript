@@ -16,5 +16,5 @@ mix.ts('resources/js/app.ts', 'public/js')
 
 
 mix.browserSync({
-    proxy: 'typescript_sample.test'
+    proxy: 'laravel-vue-typescript.test'
 })

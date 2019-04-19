@@ -49645,8 +49645,8 @@ var Form = /** @class */ (function () {
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! /Users/hato/laravel/typescript_sample/resources/js/app.ts */"./resources/js/app.ts");
-module.exports = __webpack_require__(/*! /Users/hato/laravel/typescript_sample/resources/sass/app.scss */"./resources/sass/app.scss");
+__webpack_require__(/*! /Users/hato/laravel/laravel-vue-typescript/resources/js/app.ts */"./resources/js/app.ts");
+module.exports = __webpack_require__(/*! /Users/hato/laravel/laravel-vue-typescript/resources/sass/app.scss */"./resources/sass/app.scss");
 
 
 /***/ })
